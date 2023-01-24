@@ -1,0 +1,10 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["asgardeo_user_operations_webhook"]
+  name = "asgardeo_user_operations_webhook"
+  org = "tdorg"
+  version = "0.1.0"
+
